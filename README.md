@@ -31,13 +31,13 @@ Sinta-se livre para usar, adaptar e referenciar, desde que mantenha os créditos
 ## 📌 Conteúdos do Repositório
 
 - Código em Python para:
-  - Pré-processamento e limpeza dos dados
+  - Pré-processamento dos Dados
   - Análise Exploratória (EDA)
   - Seleção de variáveis e correlações
   - Treinamento e validação de modelos
   - Avaliação por métricas (MAE, MSE, RMSE, R², MAPE, CCC)
   - Geração de gráficos, tabelas e figuras utilizadas no TCC
-  - Scripts de geração dos mapas e visualizações
+  
 
 ---
 
