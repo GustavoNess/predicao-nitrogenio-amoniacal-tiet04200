@@ -48,10 +48,8 @@ Os principais algoritmos utilizados foram:
 - Random Forest  
 - XGBoost  
 - MLP (Multilayer Perceptron)  
-- Regressão Linear  
-- Regressão Ridge/Lasso  
-- SVR (Support Vector Regression)  
-- Modelos baseline para comparação
+- Regressão Linear
+
 
 ---
 
