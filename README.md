@@ -4,7 +4,7 @@ O projeto implementa e compara diferentes modelos de aprendizado de máquina par
 
 # Predição de Nitrogênio Amoniacal (NH₄⁺) no Rio Tietê usando Machine Learning
 
-Repositório contendo o código-fonte desenvolvido para o Trabalho de Conclusão de Curso **“Machine Learning aplicado à Predição de Nitrogênio Amoniacal para Apoio ao Monitoramento e Gestão de Recursos Hídricos”**.
+Repositório contendo o código-fonte desenvolvido para estudo sobre “Machine Learning aplicado à Predição de Nitrogênio Amoniacal para Apoio ao Monitoramento e Gestão de Recursos Hídricos.
 
 O objetivo principal é aplicar e avaliar algoritmos de aprendizado de máquina para prever concentrações de nitrogênio amoniacal (NH₄⁺) na estação **TIET04200**, localizada no Rio Tietê e operada pela **CETESB**, usando dados do período **2019–2025**.
 
